@@ -29,6 +29,7 @@ _This is the Vietnamese translation by neofob of the book
 **References:**
 * Project Gutenberg [text][2]
 * Oregon State University, digitalized by Paula Gaber, [text][3]
+* Rendered [`PDF`][4] on Google Drive
 
 **Translator:** [_neofob_][1]
 
@@ -38,3 +39,4 @@ _This is the Vietnamese translation by neofob of the book
 [1]: https://github.com/neofob "neofob"
 [2]: http://www.gutenberg.org/cache/epub/3420/pg3420.txt "English Text"
 [3]: http://oregonstate.edu/instruct/phl302/texts/wollstonecraft/woman-a.html
+[4]: https://drive.google.com/open?id=0B9AhIOpYKcnxZ2dSaFpoOE9GQXM
